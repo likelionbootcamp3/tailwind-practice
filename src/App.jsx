@@ -1,9 +1,9 @@
-import About from "./components/About";
-import Announcement from "./components/Announcement";
+import Announcement from "./components/Annoucement";
 import Banner from "./components/Banner";
 import Featured from "./components/Featured";
-import Footer from "./components/Footer";
 import Review from "./components/Review";
+import About from "./components/About";
+import Footer from "./components/Footer";
 
 function App() {
   return (
